@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/teste/static/css/main.ceaf5182.css",
+    "main.js": "/teste/static/js/main.cdde55d3.js",
+    "static/media/dumbells.png": "/teste/static/media/dumbells.02f4451f4c63ec3236eb.png",
+    "index.html": "/teste/index.html",
+    "main.ceaf5182.css.map": "/teste/static/css/main.ceaf5182.css.map",
+    "main.cdde55d3.js.map": "/teste/static/js/main.cdde55d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceaf5182.css",
+    "static/js/main.cdde55d3.js"
+  ]
+}
